@@ -1,2 +1,5 @@
 -Αρχικό Κείμενο-
 Αν δεν ξαναδείτε αυτό το κείμενο τότε το πρόγραμμα λειτούργησε σωστά 
+
+-Main Text-
+If you never see this text again then the code is working
